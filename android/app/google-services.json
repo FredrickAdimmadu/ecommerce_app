@@ -1,0 +1,191 @@
+{
+  "project_info": {
+    "project_number": "421199461075",
+    "firebase_url": "https://fivum-73ed0-default-rtdb.firebaseio.com",
+    "project_id": "fivum-73ed0",
+    "storage_bucket": "fivum-73ed0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421199461075:android:bfd7d77daf2befda55b226",
+        "android_client_info": {
+          "package_name": "com.example.bloom_wild"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421199461075-la3q857rkq4dc5m3rdlc0itia5h1ukkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFL0_YZGwdsiuY-ld50UlVo0hFFVOl1ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421199461075-la3q857rkq4dc5m3rdlc0itia5h1ukkr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "421199461075-p7bps382bsh3r6hikl3b6i5cv6pjk3ar.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fivum.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421199461075:android:4554b7fce396d61d55b226",
+        "android_client_info": {
+          "package_name": "com.example.fivum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421199461075-la3q857rkq4dc5m3rdlc0itia5h1ukkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFL0_YZGwdsiuY-ld50UlVo0hFFVOl1ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421199461075-la3q857rkq4dc5m3rdlc0itia5h1ukkr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "421199461075-p7bps382bsh3r6hikl3b6i5cv6pjk3ar.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fivum.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421199461075:android:0b7f65ed755a130b55b226",
+        "android_client_info": {
+          "package_name": "com.example.hackerrank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421199461075-la3q857rkq4dc5m3rdlc0itia5h1ukkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFL0_YZGwdsiuY-ld50UlVo0hFFVOl1ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421199461075-la3q857rkq4dc5m3rdlc0itia5h1ukkr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "421199461075-p7bps382bsh3r6hikl3b6i5cv6pjk3ar.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fivum.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421199461075:android:64a40d93bf23396755b226",
+        "android_client_info": {
+          "package_name": "com.example.rahbar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421199461075-la3q857rkq4dc5m3rdlc0itia5h1ukkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFL0_YZGwdsiuY-ld50UlVo0hFFVOl1ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421199461075-la3q857rkq4dc5m3rdlc0itia5h1ukkr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "421199461075-p7bps382bsh3r6hikl3b6i5cv6pjk3ar.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fivum.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421199461075:android:6fb3b25a9880749855b226",
+        "android_client_info": {
+          "package_name": "com.example.spotify_clone_with_flutter_firebase_and_audio_handler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421199461075-la3q857rkq4dc5m3rdlc0itia5h1ukkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFL0_YZGwdsiuY-ld50UlVo0hFFVOl1ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421199461075-la3q857rkq4dc5m3rdlc0itia5h1ukkr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "421199461075-p7bps382bsh3r6hikl3b6i5cv6pjk3ar.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fivum.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
